@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ethel lebenkoff]]></title>
         <description><![CDATA[ethel lebenkoff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ethelethelethelnow.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 02:58:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Aug 2016 03:00:04 GMT</lastBuildDate>
+        <atom:link href="http://ethelethelethelnow.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26ea125e-4654-4b28-9055-a2f446ba8aae.jpg">]]></description>
+            <link>http://ethelethelethelnow.com/b66ce99b-d90a-47fd-bb4b-841ef374ae58/index.html</link>
+            <guid isPermaLink="false">b66ce99b-d90a-47fd-bb4b-841ef374ae58</guid>
+            <pubDate>Sat, 13 Aug 2016 03:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/346a8554-30a6-46c3-8630-160d2619f539.jpg">]]></description>
-            <link>undefined79dfb56a-b116-462a-89f2-9ff532f57b48/index.html</link>
+            <link>http://ethelethelethelnow.com/79dfb56a-b116-462a-89f2-9ff532f57b48/index.html</link>
             <guid isPermaLink="false">79dfb56a-b116-462a-89f2-9ff532f57b48</guid>
             <pubDate>Sat, 13 Aug 2016 02:58:05 GMT</pubDate>
         </item>
