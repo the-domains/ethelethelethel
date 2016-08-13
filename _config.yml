@@ -1,4 +1,4 @@
-typography_spectrum: 0.9078505614306778
+typography_spectrum: 0.547347963321954
 color:
   brandColors:
     - '#000000'
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.14253357099369168
+layout_spectrum: 0.5780679427552968
 analytics:
   google: null
   facebook: null
